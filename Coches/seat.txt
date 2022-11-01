@@ -1,1 +1,5 @@
-Arona;Hybrid;240km/h;Blanco;2021;V6 4l;4p;Seat;The Arona is based on the Seat Ibiza small hatchback and (in case you were wondering) gets its name from a small municipality in Tenerife. This small SUV is roughly the same size as the Ford Puma and Volkswagen T-Roc, but a little shorter than the Skoda Kamiq.
+Arona;Hybrid;250km/h;Blanco;2021;V6 4l;4p;Seat;The Arona is based on the Seat Ibiza small hatchback and (in case you were wondering) gets its name from a small municipality in Tenerife.
+ñ
+Ateca;Hybrid;240km/h;Blanco;2016;1.5 L 4-cylinder;5p;Seat;El nuevo SEAT Ateca viene cargado de la tecnología mas moderna y con un nuevo diseno que le le otorga un aspecto mas robusto.
+ñ
+Ibiza;gasolina;260km/h;Rojo;2018; 1.0 L 3-cylinder;5p;Seat;El nuevo SEAT Ibiza, totalmente equipado con alta tecnología y conectividad. Es el coche urbano para moverse con el sistema de sonido BeatsAudio.

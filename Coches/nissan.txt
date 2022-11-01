@@ -1,0 +1,5 @@
+Juke;Gasolina;190km/h;Amarillo;2020;Straight engine;4p;Nissan;Descubre el Nuevo Nissan Juke, el SUV pequeno renovado en diseno y tecnologia.
+ñ
+Qashqai;Electric;180km/h;Azul;2019;2 kWh 12-346 V lithium-ion;4p;Nissan;El Nuevo Qashqai viene en forma de SUV hibrido con nuevas tecnologias, dimensiones y disenos. Conoce de cerca las tecnologías del nuevo Nissan Qashqai.
+ñ
+Micra;Hybrid;160km/h;Blanco;2016;Straight engine;4p;Nissan;Descubre el Nissan MICRA 2022. Te presentamos su silueta, características, diseno, prestaciones, funcionalidad, especificaciones, tapicerías y mucho mas.

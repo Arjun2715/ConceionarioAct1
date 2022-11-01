@@ -1,1 +1,5 @@
-Tesla Model 3;Electric;140km/h;Negro;2022;IPM-SynRM motor;4p;Tesla;Model 3 comes with the option of dual motor all-wheel drive, 20” Überturbine Wheels and Performance Brakes for total control in all weather conditions. 
+Model X;Electric;240km/h;Negro;2020;IPM-SynRM motor;5p;Tesla;Model X comes with the option of dual motor all-wheel drive, 20” Überturbine Wheels and Performance Brakes for total control in all weather conditions. 
+ñ
+Model Y;Electric;250km/h;Negro;2020;IPM-SynRM motor;5p;Tesla;Model Y comes with the option of dual motor all-wheel drive, 20” Überturbine Wheels and Performance Brakes for total control in all weather conditions. 
+ñ
+Model S;Electric;260km/h;Negro;2020;IPM-SynRM motor;5p;Tesla;Model Y comes with the option of dual motor all-wheel drive, 20” Überturbine Wheels and Performance Brakes for total control in all weather conditions.   

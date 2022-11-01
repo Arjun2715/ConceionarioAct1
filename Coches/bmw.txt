@@ -1,1 +1,5 @@
-BMW39;Gasolina;290km/h;Blanco;2019;3.5-4.9 L M62/S62 V8;4p;BMW;The BMW E39 is the fourth generation of the BMW 5 Series range of executive cars, which was manufactured from 1995 to 2004. It was launched in the sedan body style, with the station wagon body style (marketed as "Touring") introduced in 1996. The E39 was replaced by the E60 5 Series in 2003, however E39 Touring models remained in production until May 2004.
+BMW X3;Gasolina;290km/h;Negro;2019;3.5-4.9 L M62/S62 V8;4p;BMW;The BMW X3 is a compact luxury crossover SUV manufactured by BMW since 2003, based on the BMW 3 Series platform.
+ñ
+BMW X5;Gasolina;290km/h;Negro;2019;3.5-4.9 L M62/S62 V8;4p;BMW;The BMW X5 is a mid-sized luxury SUV produced by BMW.
+ñ
+BMW X6;Gasolina;300km/h;Negro;2020;4,935-4,941 mm L x 2;5p;BMW;The BMW X6 is a mid-size luxury crossover SUV by German automaker BMW.
